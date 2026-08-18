@@ -1,0 +1,1 @@
+# Automated-Stock-Trend-Analysis-and-Indicator-Prediction-Using-Time-Series-SQL-Pipeline
