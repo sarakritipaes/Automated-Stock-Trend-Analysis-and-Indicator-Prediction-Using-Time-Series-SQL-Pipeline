@@ -1,0 +1,12 @@
+# Market Data Extraction
+yfinance>=0.2.38
+
+# Data Manipulation & Analysis
+pandas>=2.2.0
+
+# Database Connectivity & ORM (SQL Server)
+sqlalchemy>=2.0.25
+pyodbc>=5.1.0
+
+# Web Application & Interactive Dashboard
+streamlit>=1.32.0
